@@ -6,6 +6,11 @@
   <!-- <link href="/public/css/bootstrap.min.css" rel="stylesheet"> -->
 
   <link href="/public/css/style.css" rel="stylesheet">
+  <head>
+	    {% if page.use_math %}
+			{% include mathjax_support.html %}
+		{% endif %}
+  </head>
   <body>
   	<div class="container"> 
 		<div class="sidebar">
