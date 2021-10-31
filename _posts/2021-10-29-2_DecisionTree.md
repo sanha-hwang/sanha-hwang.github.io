@@ -2,7 +2,7 @@
 layout: post
 title:  "2.Decision Tree"
 date: 2021-10-28 15:50:00
-categories: [ML, Decision Tree]
+category: ML
 use_math: true
 tags: ML
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "1.Linear Regression"
 date: 2021-10-26 15:50:00
-categories: [ML, Linear Regression]
+category: ML
 use_math: true
 tags: ML
 ---
