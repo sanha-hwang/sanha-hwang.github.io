@@ -2,7 +2,7 @@
 layout: post
 title:  "Operation System"
 date: 2021-12-27 06:00:00
-category: OS
+category: CS_Operating Systems
 use_math: true
 tags: OS
 ---

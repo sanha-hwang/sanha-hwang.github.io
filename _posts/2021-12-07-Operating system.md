@@ -2,7 +2,7 @@
 layout: post
 title:  "Job Interview_OS part1"
 date: 2021-12-07 06:00:00
-category: OS
+category: Interview
 use_math: true
 tags: OS
 ---
